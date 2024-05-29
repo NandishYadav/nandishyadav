@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **JavaScript,NodeJs,MongoDB**
 
-- 📫 How to reach me **nandish-yadav@gmail.com**
+- 📫 How to reach me **nanduyadavrny@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1nhd3Hx1WzSr4nSYEpJqRCYMKug-QQznm/view?usp=sharing)
 
