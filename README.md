@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nandish-Yadav](https://github.com/Nandish-Yadav)
+- 👨‍💻 All of my projects are available at [https://github.com/Nandish-Yadav](https://github.com/NandishYadav)
 
 - 💬 Ask me about **JavaScript,NodeJs,MongoDB**
 
