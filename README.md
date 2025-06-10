@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **nanduyadavrny@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1nhd3Hx1WzSr4nSYEpJqRCYMKug-QQznm/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://github.com/NandishYadav/nandishyadav/blob/main/Nandish_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
