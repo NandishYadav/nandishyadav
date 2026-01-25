@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nanduyadavrny@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/NandishYadav/nandishyadav/blob/main/Nandish_Resume.pdf](https://github.com/NandishYadav/nandishyadav/blob/main/Nandish_Resume.pdf)
+- 📄 Know about my experiences [https://github.com/NandishYadav/nandishyadav/blob/main/nandish_yadav_resume.pdf](https://github.com/NandishYadav/nandishyadav/blob/main/nandish_yadav_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
